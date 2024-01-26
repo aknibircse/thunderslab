@@ -1,0 +1,11 @@
+.btn{
+  height: 150px;
+  width: 200px;
+  background-color: #E63846;
+  clip-path: polygon(85% 33%, 100% 44%, 100% 69%, 13% 69%, 0 62%, 0 33%);
+  /* clip-path: polygon(20% 0%, 89% 0, 100% 15%, 100% 15%, 100% 37%, 8% 37%, 0 25%, 0 0); */
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+}

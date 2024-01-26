@@ -1,0 +1,22 @@
+.buton{
+    width: 200px;
+    height: 49px;
+    background-color: #E63846;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    clip-path: polygon(50% 0%, 94% 0, 100% 34%, 100% 82%, 100% 100%, 7% 100%, 0 64%, 0% 43%, 0 0);
+}
+.squre{
+    width: 79px;
+    height: 83px;
+    background: transparent;
+    color: white;
+    border: darkgray;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-top: 8px;
+    clip-path: polygon(0 0, 86% 0, 100% 12%, 100% 100%, 70% 100%, 11% 100%, 0 86%, 0% 30%);
+}

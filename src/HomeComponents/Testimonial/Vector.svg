@@ -1,0 +1,13 @@
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="535"
+            height="406"
+            viewBox="0 0 535 406"
+            fill="none"
+          >
+            <path
+              d="M61 0H535V345C535 378.689 507.689 406 474 406H367.31L357.538 383.734H0V61C0 27.3106 27.3106 0 61 0Z"
+              fill="#1A1818"
+              fillOpacity="0.85"
+            />
+          </svg>

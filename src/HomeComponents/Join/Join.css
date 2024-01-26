@@ -1,0 +1,16 @@
+.join{
+    height:207px;
+    width: 600px;
+    background: #1A1818D9;
+    color: white;
+    clip-path: polygon(4% 0, 100% 0, 100% 30%, 100% 90%, 97% 100%, 30% 100%, 0 100%, 0 10%);
+}
+.butn{
+    height:40px;
+    width: 145px;
+    background-color: #E63846;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    clip-path: polygon(0 0, 91% 0, 100% 27%, 100% 90%, 100% 100%, 8% 100%, 0 76%, 0 10%);
+}

@@ -1,0 +1,18 @@
+.item:hover {
+  background-image: url("./itembg.svg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-fit: fill;
+  padding-bottom: 60px ;
+  padding-left: 20px;
+  text-align: center;
+}
+.button{
+  background-image: url("./itembg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-fit: fill;
+  padding: 5px 5px;
+  transition: all ease-in-out 0.3s;
+}

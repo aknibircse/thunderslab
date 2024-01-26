@@ -1,0 +1,8 @@
+.mini{
+    margin-left: 28px;
+    height: 80px;
+    width: 300px;
+    background:  #FFFFFF11;
+    color: white;
+    clip-path: polygon(5% 0, 100% 0, 100% 30%, 100% 90%, 96% 100%, 30% 100%, 0 100%, 0 10%);
+}

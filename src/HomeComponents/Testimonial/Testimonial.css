@@ -1,0 +1,15 @@
+/* .vector{
+    background-image: url("./Vector.svg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 700px;
+    color: white;
+} */
+
+.vector{
+    height: 400px;
+    width: 700px;
+    background: #1A1818D9;
+    color: white;
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 100%, 70% 100%, 67% 91%, 0 91%, 0% 30%);
+}

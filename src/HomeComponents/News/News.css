@@ -1,0 +1,21 @@
+.news{
+    width: 335px;
+    height: 301px;
+    background: #1A1818D9;
+    color: white;
+    clip-path: polygon(50% 0%, 100% 0, 100% 43%, 100% 87%, 92% 100%, 32% 100%, 0 100%, 0% 43%, 0 0);
+}
+.miniBox{
+    margin-left: 130px;
+    margin-top: -50px;
+    width: 103.722px;
+    height: 80.988px;
+    background: black;
+    color: white ;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-top: 8px;
+    clip-path: polygon(0 0, 86% 0, 100% 12%, 100% 100%, 70% 100%, 11% 100%, 0 86%, 0% 30%);
+}
