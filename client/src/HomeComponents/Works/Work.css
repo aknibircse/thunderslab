@@ -1,0 +1,23 @@
+.mini{
+    margin-left: 28px;
+    height: 58px;
+    width: 228px;
+    background:  #FFFFFF11;
+    color: white;
+    clip-path: polygon(5% 0, 100% 0, 100% 30%, 100% 90%, 96% 100%, 30% 100%, 0 100%, 0 10%);
+}
+.mini-large{
+    margin-left: 28px;
+    height: 73px;
+    width: 294px;
+    background:  #FFFFFF11;
+    color: white;
+    clip-path: polygon(5% 0, 100% 0, 100% 30%, 100% 90%, 96% 100%, 30% 100%, 0 100%, 0 10%);
+}
+/* for laptop */
+@media screen and (min-width:730px) and (max-width:1024px) {
+    work-content{
+        display: flex;
+        flex-direction: column !important;
+    }
+}

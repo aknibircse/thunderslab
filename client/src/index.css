@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'industry_test';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Industry Test Book'), url('IndustryTest-Book.woff') format('woff');
+}

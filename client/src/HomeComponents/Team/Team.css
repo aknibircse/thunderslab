@@ -1,0 +1,15 @@
+/* Style each pagination button */
+.rec-dot {
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #ccc;
+    border-radius: 10%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+/* Style the active pagination button */
+.rec-dot.rec-dot_active {
+    background-color: white;
+  }

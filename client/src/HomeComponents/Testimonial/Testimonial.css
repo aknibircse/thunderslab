@@ -1,0 +1,21 @@
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 30px;
+  font-weight: bold;
+}
+.swiper-button-next:after {
+  margin-left: 30px;
+}
+.swiper-button-prev:after{
+  padding-left: 40px;
+  margin-left: -30px;
+}
+.swiper-button-next.swiper-button-disabled, 
+.swiper-button-prev.swiper-button-disabled {
+    opacity: 0;
+}
